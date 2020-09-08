@@ -1,0 +1,4 @@
+public enum FigureTypes {
+    POINT2D, CIRCLE, SPHERE, CYLINDER, SQUARE, RECTANGLE, BOX
+
+}
